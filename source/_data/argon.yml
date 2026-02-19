@@ -131,7 +131,7 @@ twikoo: # https://twikoo.js.org
 
 # 访客统计 (不蒜子)
 busuanzi:
-  enable: false # 是否启用不蒜子访客统计
+  enable: true # 是否启用不蒜子访客统计
 
 # 分析
 # 百度统计
