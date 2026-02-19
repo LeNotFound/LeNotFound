@@ -6,14 +6,14 @@
 title: LeNotFound's Blog
 subtitle: ''
 description: ''
-keywords:
+keywords: LeNotFound,LNF,李艻,博客,Hexo,OI,ACM,ICPC,XCPC,CCPC,算法,数据结构,编程,计算机,技术,生活,QJinEra,柒槿年,7Jinnian
 author: LeNotFound
-language: zh
+language: zh_cn
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://lenotfound.pages.dev/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
